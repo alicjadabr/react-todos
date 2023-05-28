@@ -1,1 +1,1 @@
-# Zustand: a simple state management for React
+# Prosta aplikacja Todo (React + Vite)
